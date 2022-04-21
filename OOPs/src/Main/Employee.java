@@ -27,7 +27,7 @@ public class Employee {
 	public Employee(String firstName, long emplId) {
 		super();
 		this.firstName = firstName;
-		this.lastName = lastName;
+	//	this.lastName = lastName;
 		this.emplId = emplId;
 	}
 	
